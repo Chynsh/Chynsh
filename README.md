@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 自我介绍 👋
+陈骏毅，20岁，是学生，目前就读于广东工业大学，来自广东河源的鼠鼠一枚。  
+爱好有羽毛球，ACGN文化。平时喜欢玩的游戏有GTAV和明日方舟。  
+代码菜鸟，精通C/C++、C#、Java、Python、JavaScript等语言的名称拼写，熟悉Windows、linux、MacOS等系统的开关机。
 <!--
 **Chynsh/Chynsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
